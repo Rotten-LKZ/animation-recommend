@@ -1,0 +1,57 @@
+
+body {
+  margin: 0;
+  padding: 5px 10px;
+}
+
+.anime {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+.anime h1 {
+  margin-bottom: 0;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.anime h4 {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.anime span {
+  background-color: #f7f7f7;
+  border: 1px solid #d6d5d5;
+  border-radius: 5px;
+  padding: 6px;
+  margin-right: 7px;
+}
+
+.anime p {
+  margin-top: 10px;
+}
+
+.anime .time {
+  color: grey;
+  font-style: italic;
+}
+
+footer {
+  width: 100%;
+  max-width: 700px;
+  margin: 0 auto;
+}
+
+footer a {
+  color: blue;
+  text-decoration: none;
+}
+
+footer img {
+  height: 30px;
+  width: auto;
+  margin-bottom: -10px;
+}

@@ -13,7 +13,7 @@
  */
 
 var main = document.querySelector('main');
-var content = '<p>共计 ' + data.length + ' 条</p>';
+var content = '<p class="total">共计 ' + data.length + ' 条</p>';
 for (let i = 0;i < data.length;i++) {
   var tags = "";
   for (let a = 0;a < data[i].tags.length;a++) {
